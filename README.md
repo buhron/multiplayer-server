@@ -1,1 +1,1 @@
-# multiplayer-server
+# multiplayer server
