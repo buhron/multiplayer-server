@@ -1,7 +1,7 @@
 {"serverInfo":
  "maxPlayers":"infinite", "serverHost":"http://mst.match",
  "serverName":"Multiplayer Server", "serverThumbnail":"./thumbnail.jpeg",
- "serverGames": 1., {
+ "serverGames": 1, {
  "game1name":"Tag", "game1desc":"Play around!", "game1src":"./worlds/ANOTHER%20WORLD.zip"
   }
 }
